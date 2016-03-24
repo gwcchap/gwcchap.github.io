@@ -1,3 +1,3 @@
 /*
-  Read me
+  Code samples to help quickly build different projects
 */
